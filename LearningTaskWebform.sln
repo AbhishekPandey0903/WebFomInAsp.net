@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningTaskWebform", "LearningTaskWebform\LearningTaskWebform.csproj", "{70E790A0-BA53-4DB6-8118-B41EBE99DD04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70E790A0-BA53-4DB6-8118-B41EBE99DD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E790A0-BA53-4DB6-8118-B41EBE99DD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E790A0-BA53-4DB6-8118-B41EBE99DD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E790A0-BA53-4DB6-8118-B41EBE99DD04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE6BAE72-FC38-4BA2-A1D2-0059DD0F28A1}
+	EndGlobalSection
+EndGlobal
